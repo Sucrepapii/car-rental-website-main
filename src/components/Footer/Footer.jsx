@@ -42,11 +42,11 @@ const Footer = () => {
             <br />
             <div className="flex items-center gap-3">
               <FaLocationArrow />
-              <p>Noida, Uttar Pradesh</p>
+              <p>Ikeja,Nigeria</p>
             </div>
             <div className="flex items-center gap-3 mt-3">
               <FaMobileAlt />
-              <p>+91 123456789</p>
+              <p>+234-9067542312</p>
             </div>
             {/* Social Handle */}
             <div className="flex items-center gap-3 mt-6">
